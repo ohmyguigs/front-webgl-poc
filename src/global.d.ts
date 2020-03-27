@@ -1,0 +1,1 @@
+declare module '@olxbr/design-system';
